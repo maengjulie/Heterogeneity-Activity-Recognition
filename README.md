@@ -1,5 +1,6 @@
 # Heterogeneity-Activity-Recognition
-Evaluating Deep Learning Models with Smartphone Sensor Data
+Evaluating Deep Learning Models with Smartphone Sensor Data\
+*w/ Hyunbin Kim*
 * Background
   * IoT technologies are integrated in smartphones and smartwatches
   * Sensors can monitor physical activities → Human Activity Recognition (HAR)
